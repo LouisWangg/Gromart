@@ -1,2 +1,2 @@
 # Gromart
-One from many projects made during Internship
+One out of two projects made during Internship
